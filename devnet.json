@@ -1,0 +1,5 @@
+{
+  "cluster": "devnet",
+  "distribution_interval_seconds": 180,
+  "top_n": 10
+}
