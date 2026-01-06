@@ -1,6 +1,9 @@
 # SOL Top Holder
 
-<img src="soltophold.png" alt="SOL Top Holder Logo" width="180" />
+<p align="center">
+  <img src="soltophold.png" alt="SOL Top Holder Logo" width="420" />
+</p>
+
 
 
 ## Overview
