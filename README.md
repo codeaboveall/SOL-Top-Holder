@@ -1,5 +1,8 @@
 # SOL Top Holder
 
+<img src="soltophold.png" alt="SOL Top Holder Logo" width="180" />
+
+
 ## Overview
 
 SOL Top Holder is a Solana-native on-chain ranking and reward distribution system.
